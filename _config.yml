@@ -23,12 +23,12 @@ repository               : "sishii0418/sishii0418.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Shunsuke Ishii"
   pronouns         : "he/him"
   bio              : "MSc Student in Econometrics and Mathematical Economics at LSE"
   location         : "London, UK"
-  employer         : "London School of Economics and Political Science"
+  employer         : "London School of Economics<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Political Science"
   uri              : # URL
   email            : "s.ishii@lse.ac.uk"
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/shunsuke-ishii-b15247237/"
+  linkedin         : "shunsuke-ishii-b15247237"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
