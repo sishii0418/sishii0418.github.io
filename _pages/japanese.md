@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ロンドン・スクール・オブ・エコノミクス (<a href="https://www.lse.ac.uk" target="_blank" rel="noopener noreferrer">LSE</a>) 修士課程 (MSc in Econometrics and Mathematical Economics) 在籍。
-並行して、<a href="https://www.jst.go.jp/erato/kojima/" target="_blank" rel="noopener noreferrer">ERATO小島マーケットデザインプロジェクト</a>のリサーチアシスタントを務めています。
+並行して、<a href="https://www.jst.go.jp/erato/kojima/" target="_blank" rel="noopener noreferrer">ERATO小島マーケットデザインプロジェクト</a> (東京大学) と、<a href="https://www.mdc.e.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer">東京大学マーケットデザインセンター (UTMD) </a>のリサーチアシスタントを務めています。
 
 2025年7月に英国エディンバラ大学 (<a href="https://www.ed.ac.uk" target="_blank" rel="noopener noreferrer">The University of Edinburgh</a>) より経済学学士号 (MA (Hons) in Economics with First Class Honours) を取得。
 2021年3月<a href="https://www.musashi.ed.jp/" target="_blank" rel="noopener noreferrer">私立武蔵高等学校</a>卒業。
@@ -38,7 +38,7 @@ redirect_from:
 
 コンピュータ
 =====
-- R (tidyverse含む)、Stata、Python、\\(\LaTeX\\)
+- R (tidyverse含む)、Stata、Python、\\(\LaTeX\\)、Linux
 
 言語
 =====
@@ -57,5 +57,5 @@ redirect_from:
 - <a href="https://cyberagentailab.github.io/EBPMDB/doc/document29/" target="_blank" rel="noopener noreferrer">教員給与引き上げ―中国の農村部における教員給与引き上げが生徒の成績に与える影響</a> (元論文: Liu, T., Su, B., Wang, J. and Rozelle, S. (2024), Can a Teacher Salary Increase Promote Students' Educational Performance?. *China & World Economy*, 32: 114-145.)
 
 <a href="https://sishii0418.github.io/nishiyama_econometrics/" target="_blank" rel="noopener noreferrer">西山ほか (2019)『計量経済学』有斐閣の練習問題解答とRでの再現</a>
-- 代表的な中級計量経済学の教科書である西山・新谷・川口・奥井 (2019)『計量経済学』(<a href="https://www.yuhikaku.co.jp/books/detail/9784641053854" target="_blank" rel="noopener noreferrer">出版社リンク</a>)の練習問題解答と本文中の実証例へのRでのレプリケーション (教科書ではStataとEViewを使用) をまとめたサイト。
+- 代表的な中級計量経済学の教科書である西山・新谷・川口・奥井 (2019)『計量経済学』(<a href="https://www.yuhikaku.co.jp/books/detail/9784641053854" target="_blank" rel="noopener noreferrer">出版社リンク</a>)の練習問題解答と本文中の実証例へのRでのレプリケーション (教科書ではStataとEViewsを使用) をまとめたサイト。
 - 本文中の実証例と各章末の実証問題はほぼ全てカバー済み、他の章末問題は未完。

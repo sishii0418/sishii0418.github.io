@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hello! I am **Shunsuke Ishii** (石井 俊輔 in [Japanese](/japanese)), an **MSc student in Econometrics and Mathematical Economics** at <a href="https://www.lse.ac.uk" target="_blank" rel="noopener noreferrer">the London School of Economics and Political Science</a>.
-Concurrently, I serve as a research assistant for <a href="https://www.jst.go.jp/erato/kojima/en/" target="_blank" rel="noopener noreferrer">ERATO KOJIMA Market Design Project</a>.
+Concurrently, I serve as a research assistant for <a href="https://www.jst.go.jp/erato/kojima/en/" target="_blank" rel="noopener noreferrer">ERATO KOJIMA Market Design Project</a> at the University of Tokyo, as well as for <a href="https://www.mdc.e.u-tokyo.ac.jp/en/" target="_blank" rel="noopener noreferrer">the University of Tokyo Market Design Center (UTMD)</a>.
 
 In July 2025, I graduated from <a href="https://www.ed.ac.uk/" target="_blank" rel="noopener noreferrer">the University of Edinburgh</a> with MA (Hons) in Economics with First Class Honours.
 
@@ -40,7 +40,7 @@ Awards
 
 Computing
 =====
-- R (including tidyverse), Stata, Python, \\(\LaTeX\\)
+- R (including tidyverse), Stata, Python, \\(\LaTeX\\), Linux
 
 Languages
 =====
