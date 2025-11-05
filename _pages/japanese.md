@@ -21,6 +21,7 @@ redirect_from:
 =====
 **[Are Final Market Prices Sufficient for Information Aggregation? Evidence from Last-Minute Dynamics in Parimutuel Betting](../files/hanyu2025final.pdf)** [<a href="https://www.mdc.e.u-tokyo.ac.jp/wp/wp-content/uploads/2025/09/UTMD-093.pdf" target="_blank" rel="noopener noreferrer">UTMD WP</a>] [<a href="https://doi.org/10.48550/arXiv.2509.14645" target="_blank" rel="noopener noreferrer">Arxiv</a>] [[BibTeX](../files/hanyu2025final.bib)] (最終更新: 2025年9月18日)
 - <a href="https://hiroakiyusheng.github.io/ja" target="_blank" rel="noopener noreferrer">羽生寛明</a>、<a href="https://sites.google.com/site/suguruotaniecon" target="_blank" rel="noopener noreferrer">大谷克</a>、<a href="https://sites.google.com/view/kazuhiroteramoto/home" target="_blank" rel="noopener noreferrer">寺本和弘</a>との共著。
+- 2025年12月に早稲田大学で開催される行動経済学会第19回大会にて口頭報告予定。
 
 学歴
 =====
