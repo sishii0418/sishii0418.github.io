@@ -20,13 +20,16 @@ redirect_from:
 研究
 =====
 **[Are Final Market Prices Sufficient for Information Aggregation? Evidence from Last-Minute Dynamics in Parimutuel Betting](../files/hanyu2025final.pdf)** [<a href="https://www.mdc.e.u-tokyo.ac.jp/wp/wp-content/uploads/2025/09/UTMD-093.pdf" target="_blank" rel="noopener noreferrer">UTMD WP</a>] [<a href="https://doi.org/10.48550/arXiv.2509.14645" target="_blank" rel="noopener noreferrer">Arxiv</a>] [[BibTeX](../files/hanyu2025final.bib)] (最終更新: 2025年9月18日)
+- **Revise and resubmit** requested from *The Economic Journal*.
 - <a href="https://hiroakiyusheng.github.io/ja" target="_blank" rel="noopener noreferrer">羽生寛明</a>、<a href="https://sites.google.com/site/suguruotaniecon" target="_blank" rel="noopener noreferrer">大谷克</a>、<a href="https://sites.google.com/view/kazuhiroteramoto/home" target="_blank" rel="noopener noreferrer">寺本和弘</a>との共著。
-- 学会発表: 行動経済学会第19回大会 (2025年12月13日、於早稲田大学、大会奨励賞受賞)
+- 行動経済学会第19回大会にて口頭報告 (2025年12月13日、於早稲田大学、大会奨励賞受賞)
 
 学歴
 =====
 - (現在) **MSc in Econometrics and Mathematical Economics**, *London School of Economics and Political Science*
   - 修了予定: 2026年7月。
+  - 必修科目: EC487 Advanced Microeconomics, EC417 Advanced Macroeconomics, and EC484 Econometric Analysis.
+  - 選択科目: EC424 Monetary Economics and Aggregate Fluctuations.
 - **MA (Hons) in Economics with First Class Honours**, *the University of Edinburgh* (2021年9月～2025年7月)
   - 卒業論文タイトル: "*Jobless Unemployed Workers and Temporary Layoff Workers on Search and Not on Search for a New Job in the US Labour Market*"、指導教官: Prof Jesper Bagger。
   - 第3学年次、カナダブリティッシュ・コロンビア大学 (The University of British Columbia) に交換留学 (2023年9月～2024年4月)。
@@ -40,7 +43,7 @@ redirect_from:
 
 コンピュータ
 =====
-- R (tidyverse含む)、Stata、Python、\\(\LaTeX\\)、Linux
+- R (tidyverse含む)、Stata、Python、MATLAB、\\(\LaTeX\\)、Linux
 
 言語
 =====
