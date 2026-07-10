@@ -10,7 +10,7 @@ redirect_from:
 Hello! I am **Shunsuke Ishii** (石井 俊輔 in [Japanese](/japanese)), an **MSc student in Econometrics and Mathematical Economics** at <a href="https://www.lse.ac.uk" target="_blank" rel="noopener noreferrer">the London School of Economics and Political Science</a>.
 Concurrently, I serve as a research assistant for <a href="https://www.jst.go.jp/erato/kojima/en/" target="_blank" rel="noopener noreferrer">ERATO KOJIMA Market Design Project</a> at the University of Tokyo, as well as for <a href="https://www.mdc.e.u-tokyo.ac.jp/en/" target="_blank" rel="noopener noreferrer">the University of Tokyo Market Design Center (UTMD)</a>.
 
-In July 2025, I graduated from <a href="https://www.ed.ac.uk/" target="_blank" rel="noopener noreferrer">the University of Edinburgh</a> with MA (Hons) in Economics with First Class Honours.
+In July 2025, I graduated from <a href="https://www.ed.ac.uk/" target="_blank" rel="noopener noreferrer">the University of Edinburgh</a> with MA (Hons) in Economics with First Class Honours (which is an *undergraduate* degree, following a Scottish convention).
 
 Fields of Interests: Macroeconomics, Labour Economics
 
@@ -18,18 +18,20 @@ Contact: s.ishii [at] lse.ac.uk
 
 Research
 =====
-**[Are Final Market Prices Sufficient for Information Aggregation? Evidence from Last-Minute Dynamics in Parimutuel Betting](files/hanyu2025final.pdf)** [<a href="https://www.mdc.e.u-tokyo.ac.jp/wp/wp-content/uploads/2025/09/UTMD-093.pdf" target="_blank" rel="noopener noreferrer">UTMD WP</a>] [<a href="https://doi.org/10.48550/arXiv.2509.14645" target="_blank" rel="noopener noreferrer">Arxiv</a>] [[BibTeX](files/hanyu2025final.bib)] (Last update: 18 September 2025)
-- **Revise and resubmit** requested from *The Economic Journal*.
+**[Are Final Market Prices Sufficient for Information Aggregation? Evidence from Last-Minute Dynamics in Parimutuel Betting](files/hanyu2026final.pdf)** [<a href="https://arxiv.org/abs/2509.14645" target="_blank" rel="noopener noreferrer">arXiv</a>] [[BibTeX](files/hanyu2026final.bib)] (Last update: 7 July 2026; First version: 18 September 2025)
+- **Resubmitted after R&R** requested from *The Economic Journal*.
 - Coauthored with <a href="https://hiroakiyusheng.github.io/" target="_blank" rel="noopener noreferrer">Hiroaki Hanyu</a>, <a href="https://sites.google.com/site/suguruotaniecon" target="_blank" rel="noopener noreferrer">Suguru Otani</a>, and <a href="https://sites.google.com/view/kazuhiroteramoto/home" target="_blank" rel="noopener noreferrer">Kazuhiro Teramoto</a>.
 - Gave a presentation at the 19th Annual Conference of the Association of Behavioral Economics and Finance at Waseda University in Tokyo, Japan in December 2025. Received a Young Scholar Prize (*Shōreishō*).
 
+<!-- [<a href="https://www.mdc.e.u-tokyo.ac.jp/wp/wp-content/uploads/2025/09/UTMD-093.pdf" target="_blank" rel="noopener noreferrer">UTMD WP</a>]  -->
+
 Education
 =====
-- (Current) **MSc in Econometrics and Mathematical Economics**, *the London School of Economics and Political Science*
+- (Current) **MSc in Econometrics and Mathematical Economics**, *The London School of Economics and Political Science*
   - Graduation expected in July 2026.
   - Core modules: EC487 Advanced Microeconomics, EC417 Advanced Macroeconomics, and EC484 Econometric Analysis.
   - Elective module: EC424 Monetary Economics and Aggregate Fluctuations.
-- **MA (Hons) in Economics with First Class Honours**, *the University of Edinburgh*, September 2021 - July 2025
+- **MA (Hons) in Economics with First Class Honours** <small>(*undergraduate* degree)</small>, *The University of Edinburgh*, September 2021 - July 2025
   - Dissertation titled "*Jobless Unemployed Workers and Temporary Layoff Workers on Search and Not on Search for a New Job in the US Labour Market*", supervised by Prof Jesper Bagger.
   - 3rd-year undergraduate exchange at *the University of British Columbia*, September 2023 - April 2024.
   - *2024-25 Undergraduate Prize* from the School of Economics for obtaining the class top mark in a course Advanced Mathematical Economics.
@@ -46,7 +48,7 @@ Awards
 
 Computing
 =====
-- R (including tidyverse), Stata, Python, MATLAB, \\(\LaTeX\\), Linux
+- R (including tidyverse), Stata, Python, MATLAB, Dynare, \\(\LaTeX\\), Linux
 
 Languages
 =====
