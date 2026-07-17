@@ -7,9 +7,12 @@ redirect_from:
   - /japanese.html
 ---
 
-ロンドン・スクール・オブ・エコノミクス (<a href="https://www.lse.ac.uk" target="_blank" rel="noopener noreferrer">LSE</a>) 修士課程 (MSc in Econometrics and Mathematical Economics) 在籍。
+
+<a href="https://www.london.edu" target="_blank" rel="noopener noreferrer">ロンドン・ビジネス・スクール</a>経済学分野プレドク。
 並行して、<a href="https://www.jst.go.jp/erato/kojima/" target="_blank" rel="noopener noreferrer">ERATO小島マーケットデザインプロジェクト</a> (東京大学) と、<a href="https://www.mdc.e.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer">東京大学マーケットデザインセンター (UTMD) </a>のリサーチアシスタントを務めています。
 
+
+2026年7月にロンドン・スクール・オブ・エコノミクス (<a href="https://www.lse.ac.uk" target="_blank" rel="noopener noreferrer">LSE</a>) より計量・数理経済学修士号 (MSc in Econometrics and Mathematical Economics) を取得。
 2025年7月に英国エディンバラ大学 (<a href="https://www.ed.ac.uk" target="_blank" rel="noopener noreferrer">The University of Edinburgh</a>) より経済学学士号 (MA (Hons) in Economics with First Class Honours) を取得。
 2021年3月<a href="https://www.musashi.ed.jp/" target="_blank" rel="noopener noreferrer">私立武蔵高等学校</a>卒業。
 
@@ -24,13 +27,18 @@ redirect_from:
 - <a href="https://hiroakiyusheng.github.io/ja" target="_blank" rel="noopener noreferrer">羽生寛明</a>、<a href="https://sites.google.com/site/suguruotaniecon" target="_blank" rel="noopener noreferrer">大谷克</a>、<a href="https://sites.google.com/view/kazuhiroteramoto/home" target="_blank" rel="noopener noreferrer">寺本和弘</a>との共著。
 - 行動経済学会第19回大会にて口頭報告 (2025年12月13日、於早稲田大学、大会奨励賞受賞)
 
+職歴
+=====
+- (Incoming) **Pre-Doctoral Research Assistant**, *London Business School* (2026年9月～2028年8月)
+  - Economics Subject Area
+- **リサーチアシスタント**、 *ERATO小島マーケットデザインプロジェクト* & *東京大学マーケットデザインセンター (UTMD)* (2024年8月～現在)
+
 学歴
 =====
-- (現在) **MSc in Econometrics and Mathematical Economics**, *The London School of Economics and Political Science*
-  - 修了予定: 2026年7月。
+- **MSc in Econometrics and Mathematical Economics** with Distinction, *The London School of Economics and Political Science* (2025年8月～2026年7月)
   - 必修科目: EC487 Advanced Microeconomics, EC417 Advanced Macroeconomics, and EC484 Econometric Analysis.
   - 選択科目: EC424 Monetary Economics and Aggregate Fluctuations.
-- **MA (Hons) in Economics with First Class Honours** <small>(学士号)</small>, *The University of Edinburgh* (2021年9月～2025年7月)
+- **MA (Hons) in Economics** with First Class Honours <small>(学士号)</small>, *The University of Edinburgh* (2021年9月～2025年7月)
   - 卒業論文タイトル: "*Jobless Unemployed Workers and Temporary Layoff Workers on Search and Not on Search for a New Job in the US Labour Market*"、指導教官: Prof Jesper Bagger。
   - 第3学年次、カナダブリティッシュ・コロンビア大学 (The University of British Columbia) に交換留学 (2023年9月～2024年4月)。
 - 私立武蔵高等学校卒業 (2021年3月)

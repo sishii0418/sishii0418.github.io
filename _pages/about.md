@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am **Shunsuke Ishii** (石井 俊輔 in [Japanese](/japanese)), an **MSc student in Econometrics and Mathematical Economics** at <a href="https://www.lse.ac.uk" target="_blank" rel="noopener noreferrer">the London School of Economics and Political Science</a>.
-Concurrently, I serve as a research assistant for <a href="https://www.jst.go.jp/erato/kojima/en/" target="_blank" rel="noopener noreferrer">ERATO KOJIMA Market Design Project</a> at the University of Tokyo, as well as for <a href="https://www.mdc.e.u-tokyo.ac.jp/en/" target="_blank" rel="noopener noreferrer">the University of Tokyo Market Design Center (UTMD)</a>.
+Hello! I am **Shunsuke Ishii** (石井 俊輔 in [Japanese](/japanese)), an incoming **Pre-Doctoral Research Assistant** at <a href="https://www.london.edu" target="_blank" rel="noopener noreferrer">London Business School</a>, Economics Subject Area.
+I also work as a research assistant for <a href="https://www.jst.go.jp/erato/kojima/en/" target="_blank" rel="noopener noreferrer">ERATO KOJIMA Market Design Project</a> at the University of Tokyo, as well as for <a href="https://www.mdc.e.u-tokyo.ac.jp/en/" target="_blank" rel="noopener noreferrer">the University of Tokyo Market Design Center (UTMD)</a>.
 
-In July 2025, I graduated from <a href="https://www.ed.ac.uk/" target="_blank" rel="noopener noreferrer">the University of Edinburgh</a> with MA (Hons) in Economics with First Class Honours (which is an *undergraduate* degree, following a Scottish convention).
+I hold an **MSc in Econometrics and Mathematical Economics** from the <a href="https://www.lse.ac.uk" target="_blank" rel="noopener noreferrer">London School of Economics and Political Science</a>, which I obtained in July 2026.
+Prior to that, I graduated in July 2025 from the <a href="https://www.ed.ac.uk/" target="_blank" rel="noopener noreferrer">University of Edinburgh</a> with MA (Hons) in Economics with First Class Honours (which is an *undergraduate* degree, following a Scottish convention).
 
 Fields of Interests: Macroeconomics, Labour Economics
 
@@ -25,13 +26,19 @@ Research
 
 <!-- [<a href="https://www.mdc.e.u-tokyo.ac.jp/wp/wp-content/uploads/2025/09/UTMD-093.pdf" target="_blank" rel="noopener noreferrer">UTMD WP</a>]  -->
 
+Employment
+=====
+- (Incoming) **Pre-Doctoral Research Assistant**, *London Business School*, September 2026 - August 2028
+  - Economics Subject Area.
+- **Research Assistant**, *ERATO Kojima Market Design Project* and *University of Tokyo Market Design Center*, August 2024 - Present
+  - Part-time and mostly remote.
+
 Education
 =====
-- (Current) **MSc in Econometrics and Mathematical Economics**, *The London School of Economics and Political Science*
-  - Graduation expected in July 2026.
+- **MSc in Econometrics and Mathematical Economics** with Distinction, *The London School of Economics and Political Science*, August 2025 - July 2026
   - Core modules: EC487 Advanced Microeconomics, EC417 Advanced Macroeconomics, and EC484 Econometric Analysis.
   - Elective module: EC424 Monetary Economics and Aggregate Fluctuations.
-- **MA (Hons) in Economics with First Class Honours** <small>(*undergraduate* degree)</small>, *The University of Edinburgh*, September 2021 - July 2025
+- **MA (Hons) in Economics** with First Class Honours <small>(*undergraduate* degree)</small>, *The University of Edinburgh*, September 2021 - July 2025
   - Dissertation titled "*Jobless Unemployed Workers and Temporary Layoff Workers on Search and Not on Search for a New Job in the US Labour Market*", supervised by Prof Jesper Bagger.
   - 3rd-year undergraduate exchange at *the University of British Columbia*, September 2023 - April 2024.
   - *2024-25 Undergraduate Prize* from the School of Economics for obtaining the class top mark in a course Advanced Mathematical Economics.
@@ -39,7 +46,7 @@ Education
 
 Awards
 =====
-- **Young Scholar Prize (*Shōreishō*)**, *The Association of Behavioral Economics and Finance*, December 2025
+- **Encouragement Award (*Shōreishō*)**, *The Association of Behavioral Economics and Finance*, December 2025
   - For my presentation given at the 19th Annual Conference at Waseda University.
 - **Scholarship for Degree Seeking Students Studying Abroad**, *Japan Student Services Organization*, March 2025
   - Scholarship for my master's programme at the London School of Economics and Political Science, funded by the Japanese government.
