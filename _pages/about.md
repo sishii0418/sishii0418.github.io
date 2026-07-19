@@ -31,7 +31,6 @@ Employment
 - (Incoming) **Pre-Doctoral Research Assistant**, *London Business School*, September 2026 - August 2028
   - Economics Subject Area.
 - **Research Assistant**, *ERATO Kojima Market Design Project* and *University of Tokyo Market Design Center*, August 2024 - Present
-  - Part-time and mostly remote.
 
 Education
 =====
@@ -59,7 +58,7 @@ Computing
 
 Languages
 =====
-- English (fluent), Japanese (native), French (intermediate), Mandarin Chinese (intermediate, hold HSK 5)
+- Japanese (native), French (intermediate), Mandarin Chinese (intermediate, hold HSK 5)
 
 ---
 
