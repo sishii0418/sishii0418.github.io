@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<a href="https://www.london.edu" target="_blank" rel="noopener noreferrer">ロンドン・ビジネス・スクール</a>経済学分野プレドク。
+<a href="https://www.london.edu" target="_blank" rel="noopener noreferrer">ロンドン・ビジネス・スクール</a>経済学分野プレドク (2026年9月〜)。
 並行して、<a href="https://www.jst.go.jp/erato/kojima/" target="_blank" rel="noopener noreferrer">ERATO小島マーケットデザインプロジェクト</a> (東京大学) と、<a href="https://www.mdc.e.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer">東京大学マーケットデザインセンター (UTMD) </a>のリサーチアシスタントを務めています。
 
 
@@ -57,10 +57,10 @@ redirect_from:
 =====
 - 英語 (流暢)、日本語 (母語)、フランス語 (中級)、中国語普通話 (中級、HSK5級保有)
 
----
-
 書きもの
 -----
+[プレドク就活の記録](/predoc) (2026年8月12日)
+
 <a href="https://cyberagentailab.github.io/EBPMDB/" target="_blank" rel="noopener noreferrer">EBPMデータベース</a>への寄稿 (過去に日本国内外で実施された公共政策を検証した査読論文の日本語要約。政策担当者向け。)
 - <a href="https://cyberagentailab.github.io/EBPMDB/doc/document136/" target="_blank" rel="noopener noreferrer">保育施設の利用料引き下げ―スウェーデンにおいて保育施設の利用料引き下げが出生率に与えた影響</a> (元論文: Mörk, E., Sjögren, A., & Svaleryd, H. (2013). Childcare costs and the demand for children—evidence from a nationwide reform. *Journal of Population Economics*, 26(1), 33-65.)
 - <a href="https://cyberagentailab.github.io/EBPMDB/doc/document138/" target="_blank" rel="noopener noreferrer">住宅価格の変動―アメリカにおいて住宅価格に起因する所有資産の変動が出生率に与える影響</a> (元論文: Lovenheim, M. F., & Mumford, K. J. (2013). Do family wealth shocks affect fertility choices? Evidence from the housing market. *Review of Economics and Statistics*, 95(2), 464-475.)
