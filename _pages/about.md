@@ -60,8 +60,6 @@ Languages
 =====
 - Japanese (native), French (intermediate), Mandarin Chinese (intermediate, hold HSK 5)
 
----
-
 Miscellaneous Writings in Japanese
 -----
-Please have a look on my [Japanese page](/japanese).
+Please have a look at my [Japanese page](/japanese).
