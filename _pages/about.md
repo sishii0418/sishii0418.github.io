@@ -19,7 +19,7 @@ Contact: s.ishii [at] lse.ac.uk
 
 Research
 =====
-**[Are Final Market Prices Sufficient for Information Aggregation? Evidence from Last-Minute Dynamics in Parimutuel Betting](files/hanyu2026final.pdf)** [<a href="https://arxiv.org/abs/2509.14645" target="_blank" rel="noopener noreferrer">arXiv</a>] [[BibTeX](files/hanyu2026final.bib)] (Last update: 7 July 2026; First version: 18 September 2025)
+**[Are Final Market Prices Sufficient for Information Aggregation? Evidence from Last-Minute Dynamics in Parimutuel Betting](files/hanyu2026final.pdf)** [<a href="https://arxiv.org/abs/2509.14645v3" target="_blank" rel="noopener noreferrer">arXiv</a>] [[BibTeX](files/hanyu2026final.bib)] (Last update: 7 July 2026; First version: 18 September 2025)
 - **Resubmitted after R&R** requested from *The Economic Journal*.
 - Coauthored with <a href="https://hiroakiyusheng.github.io/" target="_blank" rel="noopener noreferrer">Hiroaki Hanyu</a>, <a href="https://sites.google.com/site/suguruotaniecon" target="_blank" rel="noopener noreferrer">Suguru Otani</a>, and <a href="https://sites.google.com/view/kazuhiroteramoto/home" target="_blank" rel="noopener noreferrer">Kazuhiro Teramoto</a>.
 - Gave a presentation at the 19th Annual Conference of the Association of Behavioral Economics and Finance at Waseda University in Tokyo, Japan in December 2025. Received a Young Scholar Prize (*Shōreishō*).
