@@ -15,7 +15,7 @@ Prior to that, I graduated in July 2025 from the <a href="https://www.ed.ac.uk/"
 
 Fields of Interests: Macroeconomics, Labour Economics
 
-Contact: s.ishii [at] lse.ac.uk
+Contact: sishii [at] london.edu
 
 Research
 =====

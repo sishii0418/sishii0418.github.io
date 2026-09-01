@@ -18,7 +18,7 @@ redirect_from:
 
 関心分野: マクロ経済学、労働経済学
 
-連絡先: s.ishii [at] lse.ac.uk
+連絡先: sishii [at] london.edu
 
 研究
 =====
