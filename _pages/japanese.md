@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<a href="https://www.london.edu" target="_blank" rel="noopener noreferrer">ロンドン・ビジネス・スクール</a>経済学分野プレドク (2026年9月〜)。
+<a href="https://www.london.edu" target="_blank" rel="noopener noreferrer">ロンドン・ビジネス・スクール</a>経済学分野プレドク。
 並行して、<a href="https://www.jst.go.jp/erato/kojima/" target="_blank" rel="noopener noreferrer">ERATO小島マーケットデザインプロジェクト</a> (東京大学) と、<a href="https://www.mdc.e.u-tokyo.ac.jp/" target="_blank" rel="noopener noreferrer">東京大学マーケットデザインセンター (UTMD) </a>のリサーチアシスタントを務めています。
 
 

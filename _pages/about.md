@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am **Shunsuke Ishii** (石井 俊輔 in [Japanese](/japanese)), an incoming **Pre-Doctoral Research Assistant** at <a href="https://www.london.edu" target="_blank" rel="noopener noreferrer">London Business School</a>, Economics Subject Area.
+Hello! I am **Shunsuke Ishii** (石井 俊輔 in [Japanese](/japanese)), a **Pre-Doctoral Research Assistant** at <a href="https://www.london.edu" target="_blank" rel="noopener noreferrer">London Business School</a>, Economics Subject Area.
 I also work as a research assistant for <a href="https://www.jst.go.jp/erato/kojima/en/" target="_blank" rel="noopener noreferrer">ERATO KOJIMA Market Design Project</a> at the University of Tokyo, as well as for <a href="https://www.mdc.e.u-tokyo.ac.jp/en/" target="_blank" rel="noopener noreferrer">the University of Tokyo Market Design Center (UTMD)</a>.
 
 I hold an **MSc in Econometrics and Mathematical Economics** from the <a href="https://www.lse.ac.uk" target="_blank" rel="noopener noreferrer">London School of Economics and Political Science</a>, which I obtained in July 2026.
